@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/verloren-in-dir/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Verloren in dir](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/verloren-in-dir/) |
+| **Get License** | [Music Rights & Licensing for Verloren in dir](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/verloren-in-dir/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Die ganze Stadt ist laut, doch ich hör' nur deinen Atem
+> Dein Blick trifft mich tief, Baby, ich kann nicht mehr warten
+> Steig ein in den RS, der Motor erwacht
+> Bin verloren in dir, die Königin meiner Nacht
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
