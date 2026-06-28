@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/verloren-in-dir/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Verloren in dir](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/verloren-in-dir/) |
+| **Get License** | [Commercial Licensing for Verloren in dir](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/verloren-in-dir/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `94f284798eba8771231960c72a1fb3f50896f2a45b8fbd9634217bdc88cd3730` |
 | **Timestamp** | June 29, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Verloren in dir
+
+This log tracks the cryptographic history and versioning for the song **Verloren in dir** (verloren-in-dir).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-29T01:08:46.162093 | `v1` | `94f284798eba8771231960c72a1fb3f50896f2a45b8fbd9634217bdc88cd3730` | `aedbe8e969e93add582fbd6cd82d1ea659f57ef962d2c4cdb1d4acc06969a911` | `2026-06-29_verloren-in-dir-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
